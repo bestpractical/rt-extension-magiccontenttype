@@ -1,0 +1,1 @@
+lib/RT/Extension/MagicContentType.pm
